@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  // code
+  // code;
   const decode = (encoded) => {
     const splitValues = encoded.split(".").map(Number);
     const groupedValues = [];
